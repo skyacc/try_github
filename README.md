@@ -1,2 +1,5 @@
-# try_github
-try some functions of github
+# try_Github
+try some functions of Github
+
+learning the submit of it
+remember the annotation(备注) of commit change 
